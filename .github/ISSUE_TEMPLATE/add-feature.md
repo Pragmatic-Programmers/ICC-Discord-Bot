@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-## Feature Title -
-
 **what will change** -
 
 ## Instructions
