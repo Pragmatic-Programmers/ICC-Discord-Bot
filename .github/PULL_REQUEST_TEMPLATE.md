@@ -16,9 +16,9 @@ mention your changes here
 - [x] I am following clean code and Documentation and my code is well linted with flake8.
 - [ ] I have updated requirements.txt 
 
-> If issue was not assigned to you Please don't make a PR. It will marked as invalid.
+> If issue was not assigned to you Please don't make a PR, It will be marked as invalid.
 
-Discuss on discord:- https://discord.gg/bM9Wy6Yzn2
+Discuss in discord server:- http://pragmaticprogrammer.in/discord
 
 ## acknowledgement
 - [x] I have tested my code and distributing it under MIT license.
