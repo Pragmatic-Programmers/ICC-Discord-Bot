@@ -12,13 +12,13 @@ mention your changes here
 
 - [ ] This issue was assigned to me.
 - [x] One Change in one Pull Request
-- [x] My file is in proper folder
+- [x] My file is in the proper folder
 - [x] I am following clean code and Documentation and my code is well linted with flake8.
 - [ ] I have updated requirements.txt 
 
-> If issue was not assigned to you Please don't make a PR, It will be marked as invalid.
+> If the issue was not assigned to you Please don't make a PR, It will be marked as invalid.
 
 Discuss in discord server:- http://pragmaticprogrammer.in/discord
 
-## acknowledgement
+## acknowledgment
 - [x] I have tested my code and distributing it under MIT license.
